@@ -1,1 +1,1 @@
-# Scrape data from site web then save data in database
+# Scrape data from site web then save it in database
